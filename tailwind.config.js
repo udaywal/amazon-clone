@@ -13,6 +13,9 @@ module.exports = {
           DEFAULT: "#131921",
         },
       },
+      fontFamily: {
+        'sans': 'Inter, Helvetica, Arial, sans-serif',
+      }
     },
   },
   variants: {
